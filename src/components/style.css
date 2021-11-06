@@ -1,0 +1,44 @@
+.img{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+  
+}
+
+
+
+.imgDetails{
+    width: 500px;
+    height: 400px;
+    border-color: black;
+}
+
+#navbar{
+    background-color: rgb(219, 215, 157) ;
+    width: 100%;
+
+}
+
+
+.Starwars {
+    width: 200px;
+    
+    border-radius: 30px;
+}
+
+#carDetails {
+    width: 520px;
+   height: 100%;
+    border: 5px solid rgb(143, 139, 81);
+}
+
+#cardp{
+    width: 250px;
+   height: 350px;
+    border: 5px solid rgb(143, 139, 81);
+}
+
+h1{
+    color:rgb(219, 215, 157);
+    }
+
